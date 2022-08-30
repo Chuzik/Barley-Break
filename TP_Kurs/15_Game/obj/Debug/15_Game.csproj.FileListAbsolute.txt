@@ -1,0 +1,11 @@
+C:\Users\Guzel\source\repos\15_Game\bin\Debug\15_Game.dll
+C:\Users\Guzel\source\repos\15_Game\bin\Debug\15_Game.pdb
+C:\Users\Guzel\source\repos\15_Game\obj\Debug\15_Game.csproj.CoreCompileInputs.cache
+C:\Users\Guzel\source\repos\15_Game\obj\Debug\15_Game.dll
+C:\Users\Guzel\source\repos\15_Game\obj\Debug\15_Game.pdb
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\bin\Debug\15_Game.dll
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\bin\Debug\15_Game.pdb
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\obj\Debug\15_Game.csproj.AssemblyReference.cache
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\obj\Debug\15_Game.csproj.CoreCompileInputs.cache
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\obj\Debug\15_Game.dll
+C:\Users\Guzel\source\repos\TP_Kurs\15_Game\obj\Debug\15_Game.pdb
